@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- GitHub README - TaborosiAkos -->
 
-<!--
-**szmartin-cmd/szmartin-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hey there, I'm spdy!</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=400&lines=%F0%9F%91%BD+It's+Hero+Time!;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+Enthusiast;%F0%9F%8C%8D+Always+Learning!">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack  
+- **Languages:** JavaScript, C#, Python  
+- **Frontend:** Vue.js  
+- **Backend:** Node.js, Prisma, MySQL  
+- **Other:** **alien-tier debugging**  
+
+---
+
+### 🚀 What I'm Working On  
+- **A language-learning platform** to help people connect and improve their skills  
+- **Game projects** that range from simple mechanics to reality-breaking narratives  
+
+---
+
+### 👽 Why Code?  
+Because sometimes, **one form isn’t enough**—so why not **unlock them all**?  
+
+---
+
+### 📈 My GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=szmartin-cmd&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00FF00&fire=00FF00&sideNums=FFFFFF" alt="GitHub Streak">
+</p>
+
+---
+
+### 🟢 Hero Time! (How to Reach Me)  
+If you're into coding, gaming, or debating the **best alien transformation**, feel free to reach out!  
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/ZlSxpkcyT0kAAAAC/ben10-omnitrix.gif" width="200">
+</p>
