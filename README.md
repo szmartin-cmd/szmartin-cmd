@@ -32,6 +32,12 @@ If you're into coding, gaming, or debating the **best alien transformation**, fe
 
 ---
 
+### 📈 My GitHub Stats 
+
+![szmartin-cmd's Stats](https://github-readme-stats.vercel.app/api?username=szmartin-cmd&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+
+---
+
 <p align="center">
   <img src="https://media.tenor.com/ZlSxpkcyT0kAAAAC/ben10-omnitrix.gif" width="200">
 </p>
