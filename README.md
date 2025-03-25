@@ -9,7 +9,7 @@
 ---
 
 ### 🛠️ My Tech Stack  
-- **Languages:** JavaScript, C#, 
+- **Languages:** JavaScript, C#
 - **Frontend:** Vue.js  
 - **Backend:** Node.js, Prisma, MySQL  
 - **Other:** **alien-tier debugging**  
